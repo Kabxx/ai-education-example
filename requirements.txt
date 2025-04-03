@@ -1,0 +1,8 @@
+pydub
+dotenv
+rich
+aisuite
+jieba
+websockets
+python-pptx
+edge-tts
